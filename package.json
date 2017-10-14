@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-tests",
+  "version": "1.0.0",
+  "description": "nodejs how to write tests demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codejayant/nodejs-tests.git"
+  },
+  "author": "jayant sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codejayant/nodejs-tests/issues"
+  },
+  "homepage": "https://github.com/codejayant/nodejs-tests#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
